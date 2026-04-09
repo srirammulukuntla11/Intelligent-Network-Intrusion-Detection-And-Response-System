@@ -1,10 +1,10 @@
-# 🛡️ Network Sentinel - Intrusion Detection System
+# 🛡️ Intelligent Network Intrusion Detection and Response System
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Python](https://img.shields.io/badge/python-3.8+-green)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.28.0-red)
 
-Network Sentinel is an advanced machine learning-based network intrusion detection system that analyzes network traffic in real-time to identify potential cyber attacks. It uses the NSL-KDD dataset and achieves over 95% accuracy in detecting various types of network intrusions.
+An intelligent network intrusion detection and response system designed to monitor, detect, and respond to potential threats in real-time. Features include data preprocessing, feature engineering, machine learning-based detection, and a user-friendly dashboard for visualization and analysis.
 
 ## ✨ Features
 
@@ -25,5 +25,6 @@ Network Sentinel is an advanced machine learning-based network intrusion detecti
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/network-sentinel.git
-cd network-sentinel
+git clone https://github.com/srirammulukuntla11/Intelligent-Network-Intrusion-Detection-And-Response-System.git
+cd Intelligent-Network-Intrusion-Detection-And-Response-System
+```
